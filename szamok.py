@@ -6,7 +6,7 @@ from turtle import *
 turtle = Turtle()
 ts = turtle.getscreen()
 
-#turtle.screen.screensize(1000,1000)
+turtle.screen.screensize(1000,1000)
 
 from random import randint
 
